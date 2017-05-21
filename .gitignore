@@ -1,0 +1,13 @@
+# User specific & automatically generated files #
+#################################################
+**/target
+**/.settings
+**/.project
+**/.classpath
+**/.vlt
+**/.vlt-sync.log
+**/.DS_Store
+**/.idea
+**/*.iml
+**/*.sublime-project
+**/*.sublime-workspace
